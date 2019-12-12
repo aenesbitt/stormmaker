@@ -1,10 +1,25 @@
- 
-
-
-Daily Data Between Two Dates
- CHAMPAIGN 3S (IL)
- USC00118740
-
+# Daily Data Between Two Dates
+#  CHAMPAIGN 3S (IL)
+#  USC00118740
+# 
+# Sum:,4915.32,2647.7,,,,
+# Count:,47765,42700,39606,47877,47875,
+# Average:,0.10,0.1,0.3,61.8,42.1,
+# Median:,0.00,0.0,0.0,65.0,43.0,
+# Low Value:,0.00,0.0,0,-12,-25,
+# High Value:,5.32,14.0,19,109,80,
+#
+# M = Missing
+# T = Trace
+#
+#
+# Time of observation may vary by station, date, and/or variable
+#
+# Midwestern Regional Climate Center
+# cli-MATE: MRCC Application Tools Environment
+# Generated at: 12/6/2019 1:34:08 PM CST
+#
+#
 Date,PRCP,SNOW,SNWD,TMAX,TMIN,
 1888-08-17,0.00,M,M,84,64,
 1888-08-18,0.00,M,M,81,57,
@@ -47963,22 +47978,4 @@ Date,PRCP,SNOW,SNWD,TMAX,TMIN,
 2019-12-03,0.00,0.0,0,40,28,
 2019-12-04,0.00,0.0,0,49,32,
 2019-12-05,0.00,0.0,0,54,25,
-2019-12-06,M,M,M,M,M,
-
-Sum:,4915.32,2647.7,,,,
-Count:,47765,42700,39606,47877,47875,
-Average:,0.10,0.1,0.3,61.8,42.1,
-Median:,0.00,0.0,0.0,65.0,43.0,
-Low Value:,0.00,0.0,0,-12,-25,
-High Value:,5.32,14.0,19,109,80,
-
-M = Missing
-T = Trace
-
-
-Time of observation may vary by station, date, and/or variable
-
-Midwestern Regional Climate Center
-cli-MATE: MRCC Application Tools Environment
-Generated at: 12/6/2019 1:34:08 PM CST
 
